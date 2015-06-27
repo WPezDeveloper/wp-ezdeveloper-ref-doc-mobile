@@ -1,9 +1,13 @@
 wp-ezdeveloper-ref-doc-mobile
 =============================
 
-TODO
+---
 
-===========================================================================
+**"What this WPezDevelope Ref Doc stuff all about?"**
+
+https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
+
+---
 
 
 #### Sept 2014 - Mobile Web App Checklist
